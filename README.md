@@ -7,9 +7,11 @@ I'm August Wahlberg, a creative developer from Norway ![image](https://user-imag
 I have a background in Entreprenurship and economy, and graphic design and currently I am studing the field of frontend development. 
 
 Programming languas:
-<img src="https://user-images.githubusercontent.com/91577070/172961943-f1004bc5-01bc-43df-a2b2-2e4d33b282c0.png" width="22" height="22" />
+<img src="https://user-images.githubusercontent.com/91577070/172962081-babf7f7c-4e95-47a2-a42f-a1deb577df76.png" width="22" height="22" />
 <img src="https://user-images.githubusercontent.com/91577070/172960307-94a802fa-1c6d-4382-ba8d-737fb07d3967.png" width="20" height="20" />
 <img src="https://user-images.githubusercontent.com/91577070/172960809-826fcb14-da47-4f5e-94e4-bd575006ed2c.png" width="20" height="20" />
+
+
 
 
 
