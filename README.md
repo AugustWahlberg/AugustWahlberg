@@ -13,6 +13,15 @@ Programming languas:
 
 Tools:  
 <img src="https://user-images.githubusercontent.com/91577070/172962472-a8f40613-a530-446d-b049-89322da51bdb.png" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/91577070/172962640-b6530708-ee24-4aa6-b701-98cc7a388dbe.png" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/91577070/172962723-2ae4ef65-af35-417a-9788-cd93a3b63548.png" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/91577070/172962946-04631940-546d-4123-8d28-19a57ee9d1b4.png" width="25" height="25" />
+
+
+
+
+
+
 
 
 
