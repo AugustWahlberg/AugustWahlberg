@@ -17,7 +17,7 @@ Tools:
 <img src="https://user-images.githubusercontent.com/91577070/172962723-2ae4ef65-af35-417a-9788-cd93a3b63548.png" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/91577070/172962946-04631940-546d-4123-8d28-19a57ee9d1b4.png" width="25" height="25" />
 
-<img src="hhttps://user-images.githubusercontent.com/91577070/172963074-9da922e9-20af-47bd-8f5e-e8f1dc28a61a.png" width="25" height="25" />
+<img src="https://user-images.githubusercontent.com/91577070/172963074-9da922e9-20af-47bd-8f5e-e8f1dc28a61a.png" width="25" height="25" />
 
 
 
