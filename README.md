@@ -6,7 +6,7 @@ I'm August Wahlberg, a creative developer from Norway ![image](https://user-imag
 
 I have a background in Entreprenurship and economy, and graphic design and currently I am studing the field of frontend development. 
 
-Programming languas:  ![image](https://user-images.githubusercontent.com/91577070/172960307-94a802fa-1c6d-4382-ba8d-737fb07d3967.png =20x20)  
+Programming languas:  ![image](https://user-images.githubusercontent.com/91577070/172960307-94a802fa-1c6d-4382-ba8d-737fb07d3967.png=20x20)  
 
 
 <!--
