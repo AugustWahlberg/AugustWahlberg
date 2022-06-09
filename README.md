@@ -10,7 +10,7 @@ Programming languas:
 ![image](https://user-images.githubusercontent.com/91577070/172960307-94a802fa-1c6d-4382-ba8d-737fb07d3967.png) ![image](https://user-images.githubusercontent.com/91577070/172960809-826fcb14-da47-4f5e-94e4-bd575006ed2c.png)
 
 
-<img src="https://user-images.githubusercontent.com/91577070/172960809-826fcb14-da47-4f5e-94e4-bd575006ed2c.png" width="20" height="20" />
+<img src="https://user-images.githubusercontent.com/91577070/172960809-826fcb14-da47-4f5e-94e4-bd575006ed2c.png" width="40" height="40" />
 
 
 
