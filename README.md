@@ -11,8 +11,8 @@ Programming languas:
 <img src="https://user-images.githubusercontent.com/91577070/172960307-94a802fa-1c6d-4382-ba8d-737fb07d3967.png" width="20" height="20" />
 <img src="https://user-images.githubusercontent.com/91577070/172960809-826fcb14-da47-4f5e-94e4-bd575006ed2c.png" width="20" height="20" />
 
-Tools:
-<img src="https://user-images.githubusercontent.com/91577070/172962472-a8f40613-a530-446d-b049-89322da51bdb.png" width="20" height="20" />
+Tools:  
+<img src="https://user-images.githubusercontent.com/91577070/172962472-a8f40613-a530-446d-b049-89322da51bdb.png" width="25" height="25" />
 
 
 
