@@ -1,4 +1,4 @@
-## Salute
+## Salute :v:
 
 Welcome to my page!
 I'm August Wahlberg, a creative developer from Norway 🇳🇴, currently living in Drammen.
